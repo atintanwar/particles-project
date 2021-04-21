@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow: hidden;
+    background: black;
+}
+
+canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+}
+
+/*# sourceMappingURL=/style.e308ff8e.css.map */
